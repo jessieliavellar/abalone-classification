@@ -4,5 +4,3 @@ Nessa análise, foi feita a suposição de que a correta identificação entre u
 
 :zap: **RESULTADO:**
 Foi obtido aproximadamente <b>81.91% de acerto</b>  entre os abalones identificados como maduros ao aplicar o modelo SVC com todas as informações disponíveis.
-
-![abalone]([http://url/to/img.png](https://grupoqualityambiental.com.br/wp-content/uploads/2021/07/abalone_325843490.jpg))
